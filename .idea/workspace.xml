@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96666897-7025-4731-a279-44c35568280a" name="Default" comment="commit 2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex/sitePersonalBrowser/ChromeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/il/personalBrowser/Chrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex/sitePersonalBrowser/SecondTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/il/personalBrowser/SecondTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ru/deliveryClub/FirstTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ru/deliveryClub/SecondTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/il/personalBrowser/Chrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/il/personalBrowser/Chrome.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,8 +18,8 @@
       <file leaf-file-name="Chrome.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/il/personalBrowser/Chrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="181">
+              <caret line="65" column="26" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -567,8 +562,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/il/personalBrowser/Chrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="181">
+          <caret line="65" column="26" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

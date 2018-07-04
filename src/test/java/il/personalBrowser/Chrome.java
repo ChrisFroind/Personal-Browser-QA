@@ -62,6 +62,22 @@ public void setUp(){
 
 
     }
+    @Test
+    public void firstTest3() {
+        driver.get("http://www.personal-browser.com/");
+        String title = driver.getTitle();
+        Assert.assertTrue(title.equals("Personal Browser"));
+        WebElement searchField = driver.findElement(By.xpath("//*[@id=\"q\"]"));
+        searchField.clear();
+        searchField.sendKeys("hotels");
+        WebElement searchButton = driver.findElement(By.xpath("//*[@id=\"sBtn\"]"));
+        driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+        searchButton.click();
+
+
+
+
+    }
 
 
 
