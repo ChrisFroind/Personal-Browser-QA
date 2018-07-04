@@ -63,7 +63,7 @@ public void setUp(){
 
     }
     @Test
-    public void firstTest3() {
+    public void firstTest56() {
         driver.get("http://www.personal-browser.com/");
         String title = driver.getTitle();
         Assert.assertTrue(title.equals("Personal Browser"));
