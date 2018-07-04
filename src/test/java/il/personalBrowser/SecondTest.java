@@ -1,5 +1,5 @@
 
-package ru.deliveryClub;
+package il.personalBrowser;
 
 import org.junit.After;
 

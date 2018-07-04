@@ -1,4 +1,4 @@
-package ru.deliveryClub;
+package il.personalBrowser;
 
 import org.junit.After;
 
@@ -14,7 +14,9 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import java.util.concurrent.TimeUnit;
 
 
-public class FirstTest  {
+public class
+
+ Chrome {
 
     public ChromeDriver driver;
 
